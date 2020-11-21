@@ -65,9 +65,8 @@
             </a>
             <div class="event-summary__content">
                <h5 class="event-summary__title headline headline--tiny"><a href="#">Professors in the National
-                     Spotlight</a>
-               </h5>
-               <p>Two of our processors have been in national news lately. <a href="#" class="nu gray">Read more</a></p>
+                     Spotlight</a></h5>
+               <p>Two of our professors have been in national news lately. <a href="#" class="nu gray">Read more</a></p>
             </div>
          </div>
 
